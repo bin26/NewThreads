@@ -16,5 +16,5 @@ export default defineConfig({
   },
   // IMPORTANT: Replace 'repo-name' with your actual repository name
   // e.g., if your repo is 'https://github.com/user/my-app', base should be '/my-app/'
-  base: '/shopee-to-threads/',
+  base: '/NewThreads/',
 })
