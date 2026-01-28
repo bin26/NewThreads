@@ -14,4 +14,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  // IMPORTANT: Replace 'repo-name' with your actual repository name
+  // e.g., if your repo is 'https://github.com/user/my-app', base should be '/my-app/'
+  base: '/shopee-to-threads/',
 })
